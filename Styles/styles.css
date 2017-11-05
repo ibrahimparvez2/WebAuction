@@ -1,0 +1,56 @@
+﻿
+body {
+    background-color: grey;
+    font-family: 'Tangerine', cursive;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1  {
+
+    font-family:'Tangerine',sans-serif;
+    font-size: 90px;
+    font-weight:500;
+    text-align:center;
+    align-content:center;
+    color:white;
+}
+
+h3 {
+     font-weight:300;
+     text-align:center;
+     align-content:center;
+     text-align:center;
+     
+}
+
+
+#demo, #demo2, #demo3 {
+    font-family:'Nunito Sans';
+    color:white;
+
+}
+
+.jumbotron {
+    padding: 0.5em 1.2em;
+    margin: 20px;
+    background-color:silver;
+    text-align:center;
+    align-items:center;
+    color:black !important;
+    }
+  
+    
+#bidTicker {
+    padding: 0.5em 1.2em;
+    margin: 20px;
+    background-color:silver;
+    text-align:center;
+    color:black;
+    }
+
+.button {
+
+    align-content:center;
+    text-align:center;
+    color:peru;
+}
